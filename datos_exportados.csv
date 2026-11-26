@@ -1,0 +1,11 @@
+"id","nombre","categoria","precio","stock"
+1,"Laptop Lenovo","Computo",14500,5
+2,"Mouse Inalambrico","Accesorios",350,20
+3,"Teclado Mecanico","Accesorios",1200,12
+4,"Monitor 24 Pulgadas","Computo",3200,8
+5,"Silla Ergonomica","Oficina",4100,4
+6,"Escritorio Madera","Oficina",2800,6
+7,"Audifonos Bluetooth","Audio",950,15
+8,"Webcam HD","Accesorios",780,10
+9,"Disco SSD 1TB","Almacenamiento",1650,18
+10,"Memoria USB 64GB","Almacenamiento",220,30

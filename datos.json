@@ -1,0 +1,11 @@
+[
+  { "nombre": "Laptop Lenovo", "categoria": "Computo", "precio": 14500, "stock": 5 },
+  { "nombre": "Mouse Inalambrico", "categoria": "Accesorios", "precio": 350, "stock": 20 },
+  { "nombre": "Teclado Mecanico", "categoria": "Accesorios", "precio": 1200, "stock": 12 },
+  { "nombre": "Monitor 24 Pulgadas", "categoria": "Computo", "precio": 3200, "stock": 8 },
+  { "nombre": "Silla Ergonomica", "categoria": "Oficina", "precio": 4100, "stock": 4 },
+  { "nombre": "Escritorio Madera", "categoria": "Oficina", "precio": 2800, "stock": 6 },
+  { "nombre": "Audifonos Bluetooth", "categoria": "Audio", "precio": 950, "stock": 15 },
+  { "nombre": "Webcam HD", "categoria": "Accesorios", "precio": 780, "stock": 10 },
+  { "nombre": "Disco SSD 1TB", "categoria": "Almacenamiento", "precio": 1650, "stock": 18 },
+  { "nombre": "Memoria USB 64GB", "categoria": "Almacenamiento", "precio": 220, "stock": 30 }]
